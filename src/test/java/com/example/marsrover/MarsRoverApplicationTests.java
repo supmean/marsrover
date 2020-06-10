@@ -1,10 +1,10 @@
-package com.marsrover.marsrover;
+package com.example.marsrover;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MarsroverApplicationTests {
+class MarsRoverApplicationTests {
 
     @Test
     void contextLoads() {
